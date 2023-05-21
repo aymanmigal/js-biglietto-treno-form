@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #157347;
+}
+
+#ticket {
+    background-color: white;
+    margin: 120px auto;
+    padding: 2rem 1rem;
+    max-width: 1140px;
+    border-radius: 30px;
+}
+label {
+    margin-bottom: 5px;
+    
+    
+}
